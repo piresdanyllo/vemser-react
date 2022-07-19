@@ -1,0 +1,8 @@
+ul {
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    list-style: none;
+    color: #fff;
+    margin-left: 60px;
+}

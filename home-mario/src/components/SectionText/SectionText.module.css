@@ -1,0 +1,15 @@
+.text {
+    background-color: #aaa;
+    max-width: 100%;
+    padding: 30px 0;
+}
+
+.text div {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.text div p {
+    font-size: 16px;
+    padding: 20px 0;
+}

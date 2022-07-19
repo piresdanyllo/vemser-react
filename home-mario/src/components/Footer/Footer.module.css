@@ -1,0 +1,23 @@
+.footerContainer {
+    background-color: red;
+    height: 100%;
+}
+
+.footerContainer footer {
+    max-width: 1200px;
+    margin: auto
+}
+
+.footerContainer footer ul {
+    display: block;
+    margin-left: 0;
+}
+
+.footerContainer footer ul li{
+    padding: 10px 0;
+}
+
+address {
+    color: #fff;
+    padding: 10px 0 ;
+}
